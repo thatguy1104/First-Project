@@ -1,6 +1,6 @@
 azure-functions
 beautifulsoup4==4.9.0
-lxml==4.5.0
+lxml==4.6.3
 requests==2.7.0
 requests-futures==1.0.0
 pyodbc==4.0.30
